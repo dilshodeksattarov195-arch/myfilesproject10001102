@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterencrypt",
+        "uuid": 3516482,
+        "checksum": "z7dsgl"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
